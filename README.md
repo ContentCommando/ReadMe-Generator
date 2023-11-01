@@ -1,3 +1,5 @@
+# README Generator
+This is a README generator that allows developers to create documentations for their projects quickly from the Command Line Interface. [See Link](https://watch.screencastify.com/v/gQvVMitoBtVfzJrGaUSF) to demo video.
 
 #### Table of contents
 [Features](#description)
@@ -9,9 +11,6 @@
 [Future Prospects](#future-prospects)
 
 [License](#license)
-
-# README Generator
-This is a README generator that allows developers to create documentations for their projects quickly from the Command Line Interface. [See Link](https://watch.screencastify.com/v/gQvVMitoBtVfzJrGaUSF) to demo video.
 
 ### Features
 The application is written in Node.js and launches from the command line. It features prompts that elicit essential data that should be contained in a concise README.md document. It's a time-saving application for developers.
