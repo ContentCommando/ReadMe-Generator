@@ -2,11 +2,11 @@
 This is a README generator that allows developers to create documentations for their projects quickly from the Command Line Interface. [See Link](https://watch.screencastify.com/v/gQvVMitoBtVfzJrGaUSF) to demo video.
 
 #### Table of contents
-[Features](#description)
+[Features](#features)
 
-[Languages](#stack)
+[Languages](#languages)
 
-[New Tools](#experience)
+[New Tools](#new-tools)
 
 [Future Prospects](#future-prospects)
 
