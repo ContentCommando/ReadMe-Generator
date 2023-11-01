@@ -51,8 +51,8 @@ const questions = [
 #### Table of contents
 [Features](#features)\n
 [Languages](#languages)\n
-[New Tools](#new tools)\n
-[Future Prospects](#future prospects)\n
+[New Tools](#new-tools)\n
+[Future Prospects](#future-prospects)\n
 [License](#license)\n
 # ${answers.title}
 ${answers.description}
