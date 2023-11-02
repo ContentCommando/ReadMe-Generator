@@ -1,6 +1,11 @@
 # README Generator
 This is a README generator that allows developers to create documentations for their projects quickly from the Command Line Interface. [See Link](https://watch.screencastify.com/v/gQvVMitoBtVfzJrGaUSF) to demo video.
 
+**Note on Usage**: 
+1. First, type `node index.js` in the command line to enter the Node runtime.
+2. Second,  type `npm install inquirer@8.0.0` to install node modules.
+3. Third, re-enter the Node runtime with `node index.js`
+
 #### Table of contents
 [Features](#features)
 
